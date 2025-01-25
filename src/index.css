@@ -171,6 +171,7 @@ a {
 }
 .projects .center {
   display: grid;
+  background-color: rebeccapurple;
   grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
   gap: 1rem;
   place-content: center;
