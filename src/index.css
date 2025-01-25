@@ -120,7 +120,7 @@ a {
   place-content: center;
   padding: 1rem;
   margin: 1rem auto;
-  grid-template-columns: repeat(auto-fill, minmax(350px, auto));
+  grid-template-columns: repeat(auto-fill, minmax(450px, auto));
 }
 
 .hero-container .hero-description {
@@ -172,7 +172,7 @@ a {
 .projects .center {
   background-color: rebeccapurple;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
   gap: 1rem;
   place-content: center;
   justify-items: center;
