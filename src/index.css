@@ -170,6 +170,7 @@ a {
   align-items: center;
 }
 .projects .center {
+  background-color: rebeccapurple;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   gap: 1rem;
